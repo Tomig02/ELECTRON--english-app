@@ -1,0 +1,23 @@
+{
+  "name": "electron--english-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomig02/ELECTRON--english-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tomig02/ELECTRON--english-app/issues"
+  },
+  "homepage": "https://github.com/Tomig02/ELECTRON--english-app#readme",
+  "devDependencies": {
+    "electron": "^20.1.3"
+  }
+}
